@@ -17,14 +17,22 @@
 
 ### 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+#### 🔹 Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk)
 ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP%20(basic)-777bb4?style=flat&logo=php)
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet)
+
+#### 🔹 Tools & Platforms
 ![REST API](https://img.shields.io/badge/-REST%20API-333?style=flat&logo=api)
+![WinForms](https://img.shields.io/badge/-WinForms-333?style=flat&logo=windows)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
@@ -44,14 +52,10 @@
 
 ### 📈 GitHub Stats
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kojicc&show_icons=true&theme=github_dark" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kojicc&theme=github-dark-blue&hide_border=false" width="47%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kojicc&theme=github-dark-blue&hide_border=false" width="47%" /> -->
 </p>
-
-> 💡 If the stats don’t load, go to https://github-readme-stats.vercel.app and click "Deploy your own".
 
 ---
 
