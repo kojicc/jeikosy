@@ -32,6 +32,9 @@
 
 #### 🔹 Tools & Platforms
 ![REST API](https://img.shields.io/badge/-REST%20API-333?style=flat&logo=api)
+![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat&logo=mysql)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![WinForms](https://img.shields.io/badge/-WinForms-333?style=flat&logo=windows)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
